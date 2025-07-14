@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["dom", "es6", "esnext"],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "jsx": "react-jsx",
+    "baseUrl": "src",
+    "allowJs": true,
+    "checkJs": false,
+    "noEmit": true, // ✅ prevent TypeScript from writing files
+    "types": ["vite/client", "node"],
+    "paths": {
+      "@/*": ["./*"],
+      "@lib/*": ["./lib/*"]
+    }
+  },
+  "include": [
+    "src/**/*",
+    "**/*.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "build"
+  ]
+}
