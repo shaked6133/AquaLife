@@ -13,11 +13,14 @@
 
 **A sophisticated containerized microservices application for intelligent aquarium management with AI-powered advisory capabilities.**
 
-[![Python](https://img.shields.io/badge/Python-55%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-35%25-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Docker](https://img.shields.io/badge/Docker-10%25-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-63.7%25-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-31.6%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![CSS](https://img.shields.io/badge/CSS-1.9%25-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PowerShell](https://img.shields.io/badge/PowerShell-0.9%25-5391FE?logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![Shell](https://img.shields.io/badge/Shell-0.6%25-89E051?logo=gnu-bash&logoColor=black)](https://www.gnu.org/software/bash/)
+[![Dockerfile](https://img.shields.io/badge/Dockerfile-0.6%25-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Other](https://img.shields.io/badge/Other-0.7%25-lightgrey)](#)
+
 
 </div>
 
