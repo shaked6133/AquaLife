@@ -63,9 +63,3 @@ logs/
 .DS_Store
 Thumbs.db
 
-#SSL
-ssl/
-init-letsencrypt.ps1
-init-letsencrypt.sh
-SSL_README.md
-docker-compose_SSL.yml
