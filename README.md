@@ -308,7 +308,7 @@ location /api/ {
 
 ### 🔐 Authentication & Authorization
 
-#### Multi-Factor Authentication Support
+#### Authentication Support
 - **JWT Tokens**: Secure, stateless authentication
 - **Google OAuth**: Enterprise-grade social login
 - **Refresh Tokens**: Automatic session management
